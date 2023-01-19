@@ -1,0 +1,220 @@
+    
+    [ 
+        {
+            "id": "1",
+            "Title":"Frações",
+            "Explicacao": " Fração é a forma de dividir alguma coisa através da razão de dois números inteiros.     Dessa forma, nada mais é do que uma divisão onde o dividendo é numerador e o divisor é o denominador. Quando dividimos uma pizza, por exemplo, estamos fracionando a pizza. Cada fatia representa uma parte da piza, ou seja, uma fração. Geralmente ela é dividida em 8 pedaços, então cada pedaço de uma pizza representa 1⁄8 (um oitavo) de uma pizza.",
+            "img": "require('../img/Matematica/Mat_Fracoes.png')"
+        },
+
+        {
+            "id": "2",
+            "Title":"Produtos notáveis",
+            "Explicacao": "Produtos notáveis são multiplicações em que os fatores são polinômios. Existem cinco produtos notáveis mais relevantes: quadrado da soma, quadrado da diferença, produto da soma pela diferença, cubo da soma e cubo da diferença.",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "3",
+            "Title":"Fatoração por diferença",
+            "Explicacao": "Diferença de dois quadrados é o 5º caso de fatoração. Para compreendermos melhor como e quando utilizarmos é necessário que saibamos que diferença na matemática é o mesmo que subtração e que quadrado é elevar um número, letra ou termos ao quadrado. A fatoração pela diferença de dois quadrados só poderá ser usada quando: Tivermos uma expressão algébrica com dois monômios (sejam binômios). Os dois monômios sejam quadrados. A operação entre eles for de subtração.Veja alguns exemplos de expressões algébricas que seguem esse modelo:• a2 - 1, a expressão algébrica tem apenas dois monômios, os dois estão ao quadrado e entre eles há uma operação de subtração.• 1 – a2 • 4x2 – y2",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "4",
+            "Title":"Bháskara",
+            "Explicacao": "A fórmula de Bháskara é um dos métodos mais conhecidos para encontrar as raízes de uma equação do segundo grau. Nessa fórmula, basta substituir os valores dos coeficientes dessa equação e realizar os cálculos que forem formados.",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "5",
+            "Title":"Função Constante",
+            "Explicacao": "A função constante diferencia-se das funções do 1° grau por não poder ser caracterizada como crescente ou decrescente, sendo, por isso, constante. Podemos afirmar que uma função constante é definida pela seguinte fórmula:f(x) = c, c. A representação da relação estabelecida por uma função constante por meio do diagrama de flechas assemelha-se com a representação da imagem a seguir, pois, independentemente dos valores pertences ao domínio, a imagem é sempre composta por um único elemento.",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "6",
+            "Title":"Função do 1º grau",
+            "Explicacao": "Chama-se função polinomial do 1º grau, ou função afim, a qualquer função f de IR em IR dada por uma lei da forma f(x) = ax + b, onde a e b são números reais dados e a0. Na função f(x) = ax + b, o número a é chamado de coeficiente de x e o número b é chamado termo constante. Veja alguns exemplos de funções polinomiais do 1º grau:f(x) = 5x - 3, onde a = 5 e b = - 3, f(x) = -2x - 7, onde a = -2 e b = - 7, f(x) = 11x, onde a = 11 e b = 0",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "7",
+            "Title":"Função do 2º grau",
+            "Explicacao": "Chama-se função quadrática, ou função polinomial do 2º grau, qualquer função f de IR em IR dada por uma lei da forma f(x) = ax2 + bx + c, onde a, b e c são números reais e a 0. Vejamos alguns exemplos de funções quadráticas: f(x) = 3x2 - 4x  + 1, onde a = 3, b = - 4 e c = 1, f(x) = x2 -1, onde a = 1, b = 0 e c = -1, f(x) = 2x2 + 3x + 5, onde a = 2, b = 3 e c = 5, f(x) = - x2 + 8x, onde a = -1, b = 8 e c = 0, f(x) = -4x2, onde a = - 4, b = 0 e c = 0",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "8",
+            "Title":"Pitagoras",
+            "Explicacao": "Dadas as funções f: A → B e g: B → C, a função composta de g com f é a função h(x) = g(f(x)), que também pode ser representada como gof(x) – que é lida como “g bola f de x”. Para utilizar a função h, podemos aplicar a função f no ponto x, descobrir qual é o valor do contradomínio relacionado a ele e aplicar a função g sobre esse valor. Fazendo isso, obteremos um ponto do contradomínio de g cujos pontos de seu domínio também pertençam ao contradomínio da f. Sendo assim, a função h, seu domínio e contradomínio ficam definidos como: h: A → C  Isso porque, pelo fato de ser igual à composta de g com f, a função h relaciona cada elemento do domínio da função f com um único elemento do contradomínio da função g.",
+            "img": "img/Matematica/Mat_Fracoes"
+        },
+        {
+            "id": "9",
+            "Title":"Velocidade Média",
+            "Explicacao": "Na física, a velocidade é uma grandeza que identifica o deslocamento de um corpo num determinado tempo. Assim, a velocidade média (Vm) mede num intervalo de tempo médio, a rapidez da deslocação de um corpo."
+        },
+        {
+            "id": "10",
+            "Title":"Movimento Uniforme",
+            "Explicacao": "O movimento uniforme ocorre quando um móvel desloca-se em linha reta e com velocidade constante. No movimento uniforme, o móvel percorre espaços iguais em intervalos de tempo iguais."
+        },
+        {
+            "id": "11",
+            "Title":"Toricelli",
+            "Explicacao": "A equação de Torricelli é uma equação da Cinemática desenvolvida pelo físico e matemático italiano Evangelista Torricelli. Essa equação permite determinar grandezas como aceleração, velocidades final e inicial e, até mesmo, o deslocamento de um corpo que se move com aceleração constante quando não se conhece o intervalo de tempo no qual o movimento ocorreu."
+        },
+        {
+            "id": "12",
+            "Title":"Queda Livre",
+            "Explicacao": "Denomina-se Queda Livre o movimento vertical, próximo à superfície da Terra, quando um corpo de massa m é abandonado no vácuo ou em uma região onde desprezamos a resistência do ar. A queda livre é um movimento uniformemente variado, sua aceleração é constante e igual a 9,8 m/s2 (ao nível do mar), chamada de aceleração gravitacional. Na queda, o módulo da velocidade do corpo aumenta, o movimento é acelerado, e, portanto, o sinal da aceleração é positivo."
+        },
+        {
+            "id": "13",
+            "Title":"Erros Probabilisticos",
+            "Explicacao": ""
+        },
+        {
+            "id": "14",
+            "Title":"Forças",
+            "Explicacao": "A força (F) é um vetor (indicado por uma seta acima da letra), ou seja, possui módulo (intensidade da força exercida), direção (reta ao longo da qual ela atua) e sentido (o lado da reta no qual a força foi exercida). Portanto, quando várias forças atuam sobre determinado corpo, elas se somam vetorialmente, para assim, dar lugar a uma força resultante."
+        },
+        {
+            "id": "15",
+            "Title":"Resistores",
+            "Explicacao": "Resistores são dispositivos que compõem circuitos elétricos diversos, a sua finalidade básica é a conversão de energia elétrica em energia térmica (Efeito Joule). Outra função dos resistores é a possibilidade de alterar a diferença de potencial em determinada parte do circuito, isso ocorre por conta da diminuição da corrente elétrica devido à presença do equipamento."
+        },
+        {
+            "id": "16",
+            "Title":"Energia",
+            "Explicacao": "Cada aparelho que utiliza a eletricidade para funcionar, como por exemplo, o computador de onde você lê esse texto, consome uma quantidade de energia elétrica. Para calcular este consumo basta sabermos a potência do aparelho e o tempo de utilização dele."
+        },
+        {
+            "id": "17",
+            "Title":"Força Eletromotriz",
+            "Explicacao": "Força eletromotriz (f.e.m.) é o potencial elétrico, medido em Volts, fornecido por um gerador, como uma bateria, para um circuito ou dispositivo elétrico. É uma grandeza escalar que pode ser definida como a energia potencial elétrica por unidade de carga."
+        },
+        {
+            "id": "18",
+            "Title":"Tensão",
+            "Explicacao": "Tensão elétrica ou diferencial de potencial (ddp) é a diferença de potencial entre dois pontos. A tensão elétrica também pode ser explicada como a quantidade de energia gerada para movimentar uma carga elétrica. Vamos dar um exemplo de uma mangueira com água, a qual no ponto entre a entrada de água e a saída exista uma diferença na quantidade de água, essa diferença trata-se da ddp entre esses dois pontos. Já no condutor, por onde circula a carga de energia elétrica, a diferença entre o gerador (equipamento responsável por gerar energia) e o consumidor (que pode ser seu computador ou outro equipamento) é que simboliza qual é a tensão que existe nesse condutor."
+        },
+        {
+            "id": "19",
+            "Title":"Carga Elétrica",
+            "Explicacao": "A carga elétrica é uma propriedade das partículas elementares que compõem o átomo. Lembrando que o átomo é formado por prótons, nêutrons e elétrons, sendo que: Prótons: Localizam-se no núcleo do átomo e possuem carga elétrica positiva; Elétrons: Ficam na eletrosfera, região ao redor do núcleo atômico, e têm carga elétrica negativa; Nêutron: Também localizado no núcleo atômico, não possui carga elétrica."
+        },
+        {
+            "id": "20",
+            "Title":"Intensidade",
+            "Explicacao": "Ao se estudarem situações onde as partículas eletricamente carregadas deixam de estar em equilíbrio eletrostático passamos à situação onde há deslocamento destas cargas para um determinada direção e em um sentido, este deslocamento é o que chamamos corrente elétrica."
+        },
+        {
+            "id": "21",
+            "Title":"Primeira lei de Ohm",
+            "Explicacao": "A primeira Lei de Ohm afirma que a corrente elétrica que atravessa um dispositivo qualquer é sempre diretamente proporcional à diferença de potencial aplicada a esse dispositivo. Imagine um aparelho submetido a uma diferença de potencial (ddp) em que flui uma corrente elétrica de intensidade i. Caso o gráfico da ddp e da corrente seja retilíneo, a resistência do dispositivo independerá da variação da ddp."
+        },
+        {
+            "id": "22",
+            "Title":"Segunda lei de Ohm",
+            "Explicacao": "Esta lei descreve as grandezas que influenciam na resistência elétrica de um condutor, conforme cita seu enunciado: A resistência de um condutor homogêneo de secção transversal constante é proporcional ao seu comprimento e da natureza do material de sua construção, e é inversamente proporcional à área de sua secção transversal. Em alguns materiais também depende de sua temperatura."
+        },
+        {
+            "id": "23",
+            "Title":"Potência",
+            "Explicacao": "A potência elétrica dissipada por um condutor é definida como a quantidade de energia térmica que passa por ele durante uma quantidade de tempo. A unidade utilizada para energia é o watt (W), que designa joule por segundo (J/s)."
+        },
+        {
+            "id": "24",
+            "Title":"Resistência",
+            "Explicacao": "A resistência elétrica é definida como a capacidade que um corpo tem de opor-se à passagem da corrente elétrica. A unidade de medida da resistência no SI é o Ohm (Ω), em homenagem ao físico alemão George Simon Ohm, e representa a razão volt/Ampére."
+        },
+        {
+            "id": "25",
+            "Title":"Conversão Y Delta",
+            "Explicacao": ""
+        },
+        {
+            "id": "26",
+            "Title":"Lançamento Horizontal",
+            "Explicacao": ""
+        },
+        {
+            "id": "27",
+            "Title":"Lançamento Oblíqou",
+            "Explicacao": ""
+        },
+        {
+            "id": "28",
+            "Title":"Força Gravitacional",
+            "Explicacao": ""
+        },
+        {
+            "id": "29",
+            "Title":"Calor Sensivel",
+            "Explicacao": ""
+        },
+        {
+            "id": "30",
+            "Title":"Lançamento Vertical",
+            "Explicacao": ""
+        },
+        {
+            "id": "31",
+            "Title":"Velocidade Instantânea",
+            "Explicacao": ""
+        },
+        {
+            "id": "32",
+            "Title":"Movimento Uniforme Variado",
+            "Explicacao": ""
+        },
+        {
+            "id": "33",
+            "Title":"Area Circulo",
+            "Explicacao": ""
+        },
+        {
+            "id": "34",
+            "Title":"Area Paralelograma",
+            "Explicacao": ""
+        },
+        {
+            "id": "35",
+            "Title":"Velocidade",
+            "Explicacao": ""
+        },
+        {
+            "id": "36",
+            "Title":"Area Retângulo",
+            "Explicacao": ""
+        },
+        {
+            "id": "37",
+            "Title":"Area Quadrado",
+            "Explicacao": ""
+        },
+        {
+            "id": "38",
+            "Title":"Area Trapézio",
+            "Explicacao": ""
+        },
+        {
+            "id": "39",
+            "Title":"Area Losango",
+            "Explicacao": ""
+        },
+        {
+            "id": "40",
+            "Title":"Area Triângulo",
+            "Explicacao": ""
+        },
+        {
+            "id": "41",
+            "Title":"Porcentagem",
+            "Explicacao": ""
+        }
+
+    ]
+
+
